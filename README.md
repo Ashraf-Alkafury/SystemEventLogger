@@ -4,6 +4,7 @@ This project is a Python-based log analysis tool that retrieves Windows Event Lo
 Additionally, the tool monitors the system's resources in real-time (CPU and memory usage) and displays them on a user-friendly GUI built with Tkinter.
 
 Key Features:
+
 Fetch Logs: Collects logs from various Windows event logs (PowerShell, Security, System, Application, Sysmon).
 Time Filter: Allows the user to specify a time range (in hours) to fetch logs from the last X hours.
 Log Parsing: Extracts relevant data from the logs, including Event ID, Timestamp, User Info, Command, Process ID, and Event Type.
